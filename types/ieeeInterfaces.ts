@@ -1,4 +1,10 @@
-interface IarticleIEEE {
+export interface IResponseIEEE {
+    total_records: number;
+    total_searched: number;
+    articles: IArticles[];
+}
+
+export interface IArticles {
     doi: string;
     publisher: string;
     title: string;
