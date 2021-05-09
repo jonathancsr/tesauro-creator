@@ -26,7 +26,7 @@
     "jsx": "react-jsx",
     "noFallthroughCasesInSwitch": true
   },
-  "baseUrl": "./src",
+  "baseUrl": "./src/",
   "paths": {
     "assets/*": [
       "assets/*"
@@ -48,6 +48,8 @@
     ],
     "containers/*": [
       "containers/*"
+    ],"routes/*": [
+      "routes/*"
     ]
   },
   "include": [
