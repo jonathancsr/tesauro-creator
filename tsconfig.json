@@ -34,23 +34,6 @@
     "components/*": [
       "components/*"
     ],
-    "client/*": [
-      "client/*"
-    ],
-    "service/*": [
-      "service/*"
-    ],
-    "pages/*": [
-      "pages/*"
-    ],
-    "styles/*": [
-      "styles/*"
-    ],
-    "containers/*": [
-      "containers/*"
-    ],"routes/*": [
-      "routes/*"
-    ]
   },
   "include": [
     "src"
